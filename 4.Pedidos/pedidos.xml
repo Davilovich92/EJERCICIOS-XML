@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedidos>
+<pedidos>
+  <fecha>2025-04-15</fecha>
+  <hora>14:30:00</hora>
+  <usuario>
+    <nombre_usuario>maria_lopez</nombre_usuario>
+    <nombre_completo>
+      <nombre>María</nombre>
+      <apellido1>López</apellido1>
+      <apellido2>García</apellido2>
+    </nombre_completo>
+    <direccion_envio>
+      <calle>Calle de la Libertad</calle>
+      <numero>45</numero>
+      <localidad>Valencia</localidad>
+      <codigo_postal>46001</codigo_postal>
+    </direccion_envio>
+  </usuario>
+  <articulos>
+    <articulo id="ART001">
+      <descripcion>Smartphone modelo X</descripcion>
+      <precio>399.99</precio>
+    </articulo>
+    <articulo id="ART002">
+      <descripcion>Smartphone modelo Z</descripcion>
+      <precio>249.50</precio>
+    </articulo>
+    <articulo id="ART003">
+      <descripcion>Accesorio para smartphone</descripcion>
+      <precio>29.99</precio>
+    </articulo>
+  </articulos>
+</pedidos>

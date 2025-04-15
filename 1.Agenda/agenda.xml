@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda>
+<agenda>
+  <contacto>
+    <nombre></nombre>  
+    <apellido1></apellido1>
+    <apellido2></apellido2>
+    <direccion>
+      <calle></calle>    
+      <numero></numero>
+      <planta></planta>
+      <letra></letra>
+      <localidad></localidad>
+      <codigo_postal></codigo_postal>
+      <provincia></provincia>
+    </direccion>
+    <telefonos>
+      <telefono_casa></telefono_casa>    
+      <telefono_movil></telefono_movil>
+      <telefono_trabajo></telefono_trabajo>
+    </telefonos>
+  </contacto>
+</agenda>

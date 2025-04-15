@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recetar>
+<receta>
+  <nombre>Sopa de cebolla</nombre>
+  <comensales>4</comensales>
+  <ingredientes>
+    <ingrediente>
+      <nombre>cebolla</nombre>
+      <cantidad>1</cantidad>
+      <unidad>kg</unidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>caldo de carne</nombre>
+      <cantidad>2</cantidad>
+      <unidad>l</unidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>mantequilla</nombre>
+      <cantidad>100</cantidad>
+      <unidad>gr</unidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>harina</nombre>
+      <cantidad>1</cantidad>
+      <unidad>cucharada</unidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>queso emmental suizo o gruyére</nombre>
+      <cantidad>100</cantidad>
+      <unidad>gr</unidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>pan tostado</nombre>
+      <descripcion>en rebanadas</descripcion>
+    </ingrediente>
+    <ingrediente>
+      <nombre>tomillo</nombre>
+    </ingrediente>
+    <ingrediente>
+      <nombre>hoja de laurel</nombre>
+      <cantidad>1</cantidad>
+      <unidad>unidad</unidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>pimienta</nombre>
+    </ingrediente>
+  </ingredientes>
+  <proceso>
+    <paso>Pelar y cortar las cebollas en rodajas finas.</paso>
+    <paso>Rehogar las cebollas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes.</paso>
+    <paso>Añadir la harina removiendo continuamente.</paso>
+    <paso>Transferir a una cazuela agregando el caldo, el tomillo y la hoja de laurel.</paso>
+    <paso>Cocer a fuego lento durante unos 15 minutos.</paso>
+    <paso>Colocar las rebanadas de pan, espolvorear con el queso y gratinar en el horno.</paso>
+  </proceso>
+</receta>

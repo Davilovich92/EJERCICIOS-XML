@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lenguajes>
+<lenguajes>
+  <nombre>Lenguajes de Marcas y Sistemas de Gestión de Información</nombre>
+  <horasSemanales>4</horasSemanales>
+  <caracter>obligatorio</caracter>
+  <fechaInicio>
+    <dia>15</dia>
+    <mes>09</mes>
+    <año>2010</año>
+  </fechaInicio>
+  <fechaFin>
+    <dia>30</dia>
+    <mes>06</mes>
+    <año>2011</año>
+  </fechaFin>
+  <alumnos>
+    <alumno>
+      <nombre>
+        <nombre>Ana</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Gutiérrez</apellido2>
+      </nombre>
+      <nif>16965696L</nif>
+      <telefono>789654321</telefono>
+      <email>ana.fdezgtrrez@hotmail.com</email>
+      <direccion>
+        <calle>C/ El Percebe</calle>
+        <numero>13</numero>
+        <localidad>Santander</localidad>
+        <codigo_postal>39302</codigo_postal>
+      </direccion>
+      <!-- Información sobre faltas y notas aún no disponible -->
+    </alumno>
+    <alumno>
+      <nombre>
+        <nombre>Pepito</nombre>
+        <apellido1>Grillo</apellido1>
+        <apellido2></apellido2>
+      </nombre>
+      <nif>98765432H</nif>
+      <telefono>656566555</telefono>
+      <email>yhyh@yahoo.com</email>
+      <direccion>
+        <calle>Avd. El Pez</calle>
+        <numero>5</numero>
+        <localidad>Suances</localidad>
+        <codigo_postal>39401</codigo_postal>
+      </direccion>
+      <nota>apto</nota>
+      <faltas>0</faltas>
+    </alumno>
+  </alumnos>
+</lenguajes>
